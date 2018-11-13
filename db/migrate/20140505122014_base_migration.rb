@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 class BaseMigration < ActiveRecord::Migration[5.1]
+=======
+class BaseMigration < ActiveRecord::Migration[4.2]
+>>>>>>> Stashed changes
   # encoding: UTF-8
   # This file is auto-generated from the current state of the database. Instead
   # of editing this file, please use the migrations feature of Active Record to
